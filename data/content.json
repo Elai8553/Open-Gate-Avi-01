@@ -1,0 +1,14 @@
+{
+  "site": {
+    "title": "OpenGate Avi",
+    "tagline": "Connecting citizens to opportunities"
+  },
+  "sections": [
+    {
+      "id": "hero",
+      "heading": "OpenGate Avi",
+      "subheading": "Empowering you to access opportunities easily",
+      "cta": "Get Started"
+    }
+  ]
+}
